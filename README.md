@@ -27,7 +27,7 @@ This repository contains the original **DEEPNDANCE Manifesto — Version 1.0**.
 
 ## Official Manifesto
 
-[Read the DEEPNDANCE Manifesto](DEEPNDANCE_Manifesto_2026_with_Noah_Fex_logo.pdf)
+[Read the DEEPNDANCE Manifesto](DEEPNDANCE_Manifesto_2026.pdf)
 
 ---
 
